@@ -1,0 +1,4 @@
+$ sqlite3 POTWsall.sqlite
+sqlite>  .mode csv
+sqlite>  .import POTWsall.csv yourtable
+sqlite>  .exit
