@@ -1,2 +1,2 @@
 import pandas as pd
-pd.read_csv(https://raw.githubusercontent.com/mjakeomalley/potws/main/POTWs%20all.csv)
+potws = pd.read_csv(https://raw.githubusercontent.com/mjakeomalley/potws/main/POTWs%20all.csv)
